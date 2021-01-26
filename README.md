@@ -19,3 +19,31 @@ http:/ <br>
 ②「現場レベルの改善のフィードバックを早めて、優秀な人材の離職防止や会社の評判upにつなげる」
 ことを目的として制作しました。
 
+## ページ一覧
+・ユーザー管理ページ <br>
+・投稿意見一覧ページ(トップページ)  <br>
+・意見投稿ページ  <br>
+・意見詳細ページ  <br>
+・プロフィールページ  <br>
+・チャットページ  <br>
+・Zoomページ  <br>
+
+## 使用技術(開発環境)
+### バックエンド
+Ruby, Ruby on Rails
+### フロントエンド
+SCSS, Javascript, JQuery, Ajax
+### データベース
+MySQL, SequelPro
+### インフラ
+AWS(EC2), Capistrano, Docker(開発環境)
+### Webサーバー(本番環境)
+nginx
+### アプリケーションサーバ(本番環境)
+unicorn
+### ソース管理
+Github, GitHubDesktop
+### テスト
+RSpec
+### エディタ
+VSCode
