@@ -47,3 +47,5 @@ Github, GitHubDesktop
 RSpec
 ### エディタ
 VSCode
+
+## 開発経過
