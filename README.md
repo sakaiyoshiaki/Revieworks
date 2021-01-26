@@ -30,13 +30,13 @@ http:/ <br>
 
 ## 使用技術(開発環境)
 ### バックエンド
-Ruby, Ruby on Rails
+Ruby2.6.4, Ruby on Rails6.0
 ### フロントエンド
-SCSS, Javascript, JQuery, Ajax
+HTML, CSS, SCSS, Javascript, JQuery, Ajax
 ### データベース
 MySQL, SequelPro
 ### インフラ
-AWS(EC2), Capistrano, Docker(開発環境)
+AWS(EC2,S3), Capistrano, Docker(開発環境)
 ### Webサーバー(本番環境)
 nginx
 ### アプリケーションサーバ(本番環境)
