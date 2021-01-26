@@ -48,5 +48,5 @@ RSpec
 ### エディタ
 VSCode
 
-## 途中経過
+## 途中経過(投稿意見一覧ページ)
 <img width="1678" alt="スクリーンショット 2021-01-26 21 37 44" src="https://user-images.githubusercontent.com/67823080/105845983-e27c1480-601e-11eb-91bf-b05a06f74a5a.png">
